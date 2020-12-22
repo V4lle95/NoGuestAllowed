@@ -11,7 +11,7 @@ No Guest Allowed is Tower Defense game. My task was to implement game mechanics 
 
 * Nelson (Programmer/Producer)
 
-J* oel Martinez (Lead Concept Artist)
+* Joel Martinez (Lead Concept Artist)
 
 * Andrea (Lead Character artist)
 
